@@ -6,9 +6,10 @@
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:mhayward2@mgh.harvard.edu)
 [![Scholar](https://img.shields.io/badge/Google-Scholar-yellow)](https://scholar.google.com/citations?user=fQ7R-x8AAAAJ&hl=en)
 
-
+## Some 
 
 - 👨🏽‍💻 I’m currently working on phylogenomics;
-- 🌱 I’m currently learning multi-omics integration;
+- 🌱 I’m always exploring novel methods for multi-omics integration;
 - 💞️ I’m looking to collaborate on novel NGS methodologies;
+- 
 
