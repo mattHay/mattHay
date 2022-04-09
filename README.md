@@ -8,10 +8,11 @@
 
 WORK IN PROGRESS :-)
 
-## Some 
+## Some features
 
-- 👨🏽‍💻 I’m currently working on phylogenomics;
-- 🌱 I’m always exploring novel methods for multi-omics integration;
-- 💞️ I’m looking to collaborate on novel NGS methodologies;
-- 
+- 👨🏽‍💻 Currently working on phylogenomics;
+-  Driven by problem solving and methods development;
+- Passionate about data visualisation --->
+- 💞️ Looking to collaborate on novel NGS methodologies;
+
 
