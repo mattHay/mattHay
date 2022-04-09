@@ -10,9 +10,8 @@
 
 ## Features of the latest version
 
-- 👨🏽‍💻 Currently working on phylogenomics;
--  Driven by problem solving and methods development;
+- Currently working on phylogenomics;
+- Driven by problem solving and methods development;
 - Passionate about data visualisation --->
-- 💞️ Looking to collaborate on novel NGS methodologies;
 
 
