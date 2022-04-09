@@ -8,7 +8,6 @@
 - 👨🏽‍💻 I’m currently working on phylogenomics;
 - 🌱 I’m currently learning multi-omics integration;
 - 💞️ I’m looking to collaborate on novel NGS methodologies;
-- 📫 How to reach me matthew.hayward1986@googlemail.com;
 
 <!---
 mattHay/mattHay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
