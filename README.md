@@ -8,7 +8,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://github.com/mattHay/mattHay/blob/main/pics.gif" />
 
-## Features of the latest version
+## Things about me
 
 - Currently working on phylogenomics;
 - Driven by problem solving and methods development;
