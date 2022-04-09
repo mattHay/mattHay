@@ -5,10 +5,10 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:matthew.hayward1986@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:mhayward2@mgh.harvard.edu)
 
-- 👀 I’m interested in next generation seqeunce analysis and methods developmnent
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me matthew.hayward1986@googlemail.com
+- 👨🏽‍💻 I’m currently working on phylogenomics;
+- 🌱 I’m currently learning multi-omics integration;
+- 💞️ I’m looking to collaborate on novel NGS methodologies;
+- 📫 How to reach me matthew.hayward1986@googlemail.com;
 
 <!---
 mattHay/mattHay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
