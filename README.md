@@ -8,7 +8,7 @@
 
 WORK IN PROGRESS :-)
 
-## Some features
+## Features of the latest version
 
 - 👨🏽‍💻 Currently working on phylogenomics;
 -  Driven by problem solving and methods development;
