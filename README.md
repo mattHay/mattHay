@@ -12,6 +12,6 @@
 
 - Currently working on phylogenomics;
 - Driven by problem solving and methods development;
-- ** Passionate about data visualisation;
+- ** Passion for creative data visualisation;
 
 
