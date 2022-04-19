@@ -12,6 +12,6 @@
 
 - Currently working on phylogenomics and host-microbe interactions;
 - Driven by problem solving and methods development;
-- ** Passion for creative data visualisation;
+- Passion for creative data visualisation;
 
 MULTIPLE REPOS COMING THROUGHOUT APRIL 2022
