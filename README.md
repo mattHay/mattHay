@@ -14,6 +14,9 @@
 - Driven by problem solving and methods development;
 - Passion for creative data visualisation;
 
+
+
+
 MULTIPLE REPOS COMING THROUGHOUT APRIL 2022 
 
 MY WORK IS CURRENTLY ON A LOCAL SERVER
