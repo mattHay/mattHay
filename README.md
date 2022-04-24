@@ -14,6 +14,6 @@
 
 - Here are some tools so you can do the same, [<ins>femMCategoriser</ins>](https://github.com/mattHay/femMCategoriser) and [<ins>femMCatprofiler</ins>](https://github.com/mattHay/femMCatprofiler)
 
-- Driven by problem solving and methods development;
+- Driven by problem solving and methods development
 
-- Passion for creative data visualisation      ---->;
+- Passion for creative data visualisation     >>>>>
