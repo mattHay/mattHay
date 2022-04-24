@@ -8,7 +8,7 @@
 
 <img width="35%" align="right" alt="Github" src="https://github.com/mattHay/mattHay/blob/main/pics.gif" />
 
-## Work and Motivations
+## Work and Motivation
 
 - Currently working on [<ins>phylogenomics and host-microbe interactions</ins>](https://github.com/mattHay/FGT_phylogenomics)
 
