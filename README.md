@@ -16,4 +16,4 @@
 
 - Driven by problem solving and methods development;
 
-- Passion for creative data visualisation ---->;
+- Passion for creative data visualisation      ---->;
