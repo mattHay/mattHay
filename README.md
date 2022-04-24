@@ -12,7 +12,7 @@
 
 - Currently working on [<ins>phylogenomics and host-microbe interactions</ins>](https://github.com/mattHay/FGT_phylogenomics)
 
-- Here are some tools so you can do the same, [<ins>femMCategoriser</ins>](https://github.com/mattHay/femMCategoriser) and [<ins>femMCatprofiler</ins>](https://github.com/mattHay/femMCatprofiler)
+- Here are some tools so you can do the same: [<ins>femMCategoriser</ins>](https://github.com/mattHay/femMCategoriser) and [<ins>femMCatprofiler</ins>](https://github.com/mattHay/femMCatprofiler)
 
 - Driven by problem solving and methods development
 
