@@ -11,5 +11,7 @@
 ## Things about me
 
 - Currently working on phylogenomics and host-microbe interactions;
+
 - Driven by problem solving and methods development;
+
 - Passion for creative data visualisation;
