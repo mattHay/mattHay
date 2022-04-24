@@ -8,11 +8,11 @@
 
 <img width="35%" align="right" alt="Github" src="https://github.com/mattHay/mattHay/blob/main/pics.gif" />
 
-## Things about me
+## My work and motivations
 
 - Currently working on [<ins>phylogenomics and host-microbe interactions</ins>](https://github.com/mattHay/FGT_phylogenomics)
 
-- Some tools so you can do the same, [<ins>femMCategoriser</ins>](https://github.com/mattHay/femMCategoriser) and [<ins>femMCatprofiler</ins>](https://github.com/mattHay/femMCatprofiler)
+- Here are some tools so you can do the same, [<ins>femMCategoriser</ins>](https://github.com/mattHay/femMCategoriser) and [<ins>femMCatprofiler</ins>](https://github.com/mattHay/femMCatprofiler)
 
 - Driven by problem solving and methods development;
 
