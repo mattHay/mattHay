@@ -10,7 +10,7 @@
 
 ## Things about me
 
-- Currently working on phylogenomics and host-microbe interactions;
+- Currently working on [phylogenomics and host-microbe interactions](https://github.com/mattHay/FGT_phylogenomics)
 
 - Driven by problem solving and methods development;
 
