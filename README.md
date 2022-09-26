@@ -8,8 +8,6 @@
 
 - I'm currently working on [<ins>phylogenomics and host-microbe interactions</ins>](https://github.com/mattHay/FGT_phylogenomics)
 
-- Here are some tools so you can do the same: [<ins>femMCategoriser</ins>](https://github.com/mattHay/femMCategoriser) and [<ins>femMCatprofiler</ins>](https://github.com/mattHay/femMCatprofiler)
-
 - I'm driven by problem solving and methods development...
 
 - ...and have a passion for creative data visualisation     >>>>>
